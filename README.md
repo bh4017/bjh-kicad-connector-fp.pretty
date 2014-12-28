@@ -11,11 +11,11 @@ To use these modules, do the following:
 
 (fp_lib_table
   (lib
-    (name BJH Connector Footprints)
+    (name XESS)
     (type Github)
-    (uri https://github.com/bh4017/bjh-kicad-connector-fp.pretty)
+    (uri https://github.com/xesscorp/xess.pretty)
     (options "")
-    (descr "KiCAD connector footprints by BJH")
+    (descr "Miscellaneous PCB footprints created by XESS Corp.")
   )
 )
 
