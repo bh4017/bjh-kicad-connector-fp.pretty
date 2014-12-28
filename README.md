@@ -1,7 +1,7 @@
-xess.pretty
+bjh-kicad-connector-fp.pretty
 ===========
 
-XESS Corp. repository of KiCad modules (PCB footprints).
+KiCAD connector footprints by BJH.
 
 To use these modules, do the following:
 
@@ -9,11 +9,11 @@ To use these modules, do the following:
 
         (fp_lib_table
           (lib
-            (name XESS)
+            (name BJH Connector Footprints)
             (type Github)
-            (uri https://github.com/xesscorp/xess.pretty)
+            (uri https://github.com/bh4017/bjh-kicad-connector-fp.pretty)
             (options "")
-            (descr "Miscellaneous PCB footprints created by XESS Corp.")
+            (descr "KiCAD connector footprints by BJH
           )
         )
 2. Click `Preferences => Library Tables` in **pcbnew**.
