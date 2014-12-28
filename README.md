@@ -9,7 +9,7 @@ To use these modules, do the following:
 
         (fp_lib_table
           (lib
-            (name BJH Connector Footprints)
+            (name BJH-Connectors)
             (type Github)
             (uri https://github.com/bh4017/bjh-kicad-connector-fp.pretty)
             (options "")
