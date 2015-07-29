@@ -1,4 +1,4 @@
-(module 2row-2.54mm-20way (layer F.Cu) (tedit 5537B95E)
+(module RCPT-2row-2.54mm-20way (layer F.Cu) (tedit 5537B95E)
   (fp_text reference REF** (at 1.27 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

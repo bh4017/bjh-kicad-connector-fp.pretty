@@ -1,4 +1,4 @@
-(module 2row-2.54mm-16way (layer F.Cu) (tedit 5537B8E7)
+(module HEAD-2row-2.54mm-16way (layer F.Cu) (tedit 5537B8E7)
   (fp_text reference REF** (at 1.27 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
