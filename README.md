@@ -13,7 +13,7 @@ To use these modules, do the following:
             (type Github)
             (uri https://github.com/bh4017/bjh-kicad-connector-fp.pretty)
             (options "")
-            (descr "KiCAD connector footprints by BJH
+            (descr "KiCAD connector footprints by BJH")
           )
         )
 2. Click `Preferences => Library Tables` in **pcbnew**.
